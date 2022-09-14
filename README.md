@@ -6,7 +6,7 @@ projeto site responsivo utilizando display grid . desenvolvido em curso de front
 | :sparkles: Nome        | **Titulo do meu projeto**
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)#vitrinedev
 
 ## Detalhes do projeto
 projeto site responsivo utilizando display grid . desenvolvido em curso de front-end da Alura
